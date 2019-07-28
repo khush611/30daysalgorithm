@@ -1,4 +1,4 @@
-#Method 1:
+# Method 1:
 
 **Use of divisibilty rule of 3 which says "sum of all the digits of a number if divided by three is equal to 0 then the number is divisible by 3"**
 
@@ -27,7 +27,7 @@ public class multipleof3simple
 	}
 }
 ```
-#Method 2:
+# Method 2:
 
 **Use of bitwise operation to check the multiple of 3**
 
@@ -36,7 +36,7 @@ public class multipleof3simple
 - subtract the total  no.of bits at odd position and  total  no.of bits at even positions.
 - if the difference is a multiple of 3 then the number is also a multiple of 3.
 
-##algorithm:
+## algorithm:
 1. Make n positive if n is negative.
 2. If number is 0 then return 1
 3. If number is 1 then return 0
