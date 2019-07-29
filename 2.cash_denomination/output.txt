@@ -1,0 +1,8 @@
+enter the amount
+627008
+no.of Rs.2000: 313
+no.of Rs.500: 2
+no.of Rs.5: 1
+no.of Rs.2: 1
+no.of Rs.1: 1
+TOTAL NO.OF MINIMUM TRASACTION: 318
